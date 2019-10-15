@@ -71,7 +71,7 @@
     </Component>
     <Component class="javax.swing.JLabel" name="jLabel1">
       <Properties>
-        <Property name="text" type="java.lang.String" value="are u single?"/>
+        <Property name="text" type="java.lang.String" value="java?"/>
       </Properties>
     </Component>
   </SubComponents>

@@ -47,7 +47,7 @@ public class NewFrame extends javax.swing.JFrame {
             }
         });
 
-        jLabel1.setText("are u single?");
+        jLabel1.setText("java?");
 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
         getContentPane().setLayout(layout);
